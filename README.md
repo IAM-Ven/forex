@@ -1,6 +1,5 @@
 Forex
 =====
-Forex Monitoring Web-App based on AngularJS, Spring-boot and SockJS
 
 Running instance : https://srv.cloud-app.pw/
 
